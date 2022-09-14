@@ -1,0 +1,56 @@
+.detailsHeader{
+    width: 258px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.backbutton{
+    width: 50px;
+    height: 50px;
+    flex: 1;
+}
+.details{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24.4px;
+    align-items: center;
+text-align: center;
+margin-top: 10px;
+}
+.note{
+    margin: 10px;
+    width: 390px;
+    height: 50px;
+    background-color:rgb(234,238,253);
+    border: 1px dashed blue;
+    border-radius:8px ;
+    margin-bottom: 2.5rem;
+}
+.notediv{
+    align-items: center;
+    margin: auto;
+    width: 77%;
+    margin-top: 1rem;
+    
+}
+.notetext{
+    width: 207px;
+height: 20px;
+left: 126px;
+top: 146px;
+
+/* DM Sans/15.6px/Medium */
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 15.6px;
+
+
+align-items: center;
+
+
+
+color: #0F191A;
+}

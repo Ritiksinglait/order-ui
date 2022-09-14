@@ -1,0 +1,67 @@
+*{
+    font-family: DM Sans;
+    font-weight: bolder;
+}
+
+.outer{
+    height: 72px;
+
+    border: 0.8px solid red;
+    border-radius: 8px;
+    margin: 15px 10px;
+    width: 390px;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+.logobox{
+    
+    flex-direction: row;
+}
+.coffee{
+    margin: 10px;
+    height: 52px;
+    width: 52px;
+}
+.order{
+    margin: 7px;
+    
+}
+.idbox{
+    display: flex;
+    flex-direction: column;
+}
+.id{
+    margin-bottom: 1rem;
+}
+.served{
+    margin-top: -0.7rem;
+    height: 2.8rem;
+    margin-right: -1rem;
+    object-fit: contain;
+}
+.orderno{
+    display: flex;
+    flex-direction: column;
+    width: 80px;
+    flex: 1;
+    margin:11px ;
+    margin-left: -6px;
+}
+.colorred{
+    color:red;
+    font-weight: bolder;
+}
+.detail{
+    font-size: 19.4px;
+    /* font-weight: normal; */
+}
+.total{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15.6px;
+    color: #4361EE;
+}
+.price{
+    font-weight: bol;
+}

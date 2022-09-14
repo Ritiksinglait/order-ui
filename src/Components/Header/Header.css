@@ -1,0 +1,21 @@
+.parent{
+    display: flex;
+    flex-direction: column;
+    width: 414px;
+    height: 44px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    margin:15px
+
+}
+.time{
+    flex: 1;
+    font-weight: bolder;
+    font-size: larger;
+}
+.icon2{
+    margin: 0px 10px;
+}
